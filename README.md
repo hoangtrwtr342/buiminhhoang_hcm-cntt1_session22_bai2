@@ -1,4 +1,4 @@
-# buiminhhoang_hcm-cntt1_session22_bai2
+# Bài 2 : Xử lý lỗi thư viện mã nguồn mở bằng GitHub Issues
 
 
 ## 1. Cách lọc và ưu tiên bình luận trên GitHub Issues
